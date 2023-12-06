@@ -4,7 +4,7 @@ import TopForm from './pages/commons/TopForm';
 import Home from './pages/Home/Home';
 import Board from './pages/Board/Board';
 import AdminMain from './pages/Admin/AdminMain';
-import EstateCreate from './pages/EstateManage/EstateCreate';
+import EstateCreate from './pages/EstateManage/js/EstateCreate1';
 import Login from './pages/Login/Login';
 import Enrollment from './pages/Enrollment/Enrollment';
 
